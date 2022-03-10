@@ -1,7 +1,7 @@
 # gesture_recognition
 This repository contains the source code for a gesture recognition application.
 Three neural networks are used: Convolutional Neural Networks, LSTM and GRU.
-Two skeleton based datasets are explored: MSRC-12 and NTU RGB+D.
+Two skeleton-based datasets are explored: MSRC-12 and NTU RGB+D.
 In this repository are avaible some jupyter notebooks and python codes.
 
 ## Datasets
